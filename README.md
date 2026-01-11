@@ -1,9 +1,3 @@
-To include the screenshot, the best practice is to place it right after the introduction so users can immediately see what the tool looks like.
-
-Here is the updated **README.md** with the image integrated:
-
-***
-
 # ESP32 Smart NVS Manager
 
 An easy-to-use system for managing ESP32 parameters (IPs, timeouts, sensor offsets, LED settings) via USB Serial without ever needing to re-flash your firmware. 
@@ -83,12 +77,6 @@ When you click **Connect** in the Python tool, it sends a `GET_SCHEMA` command. 
 
 ### Validation
 If you try to set a value outside the defined `min_val` or `max_val`, the Python tool will block the request and show an error. As a secondary safety layer, the ESP32 also validates the values before writing them to the NVS memory.
-
-## 🤝 Contributing
-Feel free to fork this project and add features like:
-- Support for WiFi credentials.
-- More data types (floats, booleans).
-- Dark mode for the Python UI.
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
