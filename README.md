@@ -79,4 +79,4 @@ When you click **Connect** in the Python tool, it sends a `GET_SCHEMA` command. 
 If you try to set a value outside the defined `min_val` or `max_val`, the Python tool will block the request and show an error. As a secondary safety layer, the ESP32 also validates the values before writing them to the NVS memory.
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPL3 License - see the LICENSE file for details.
