@@ -1,4 +1,4 @@
-# ESP32 Smart NVS Manager
+# ESP32 NVS Manager
 
 An easy-to-use system for managing ESP32 parameters (IPs, timeouts, sensor offsets, LED settings) via USB Serial without ever needing to re-flash your firmware. 
 
