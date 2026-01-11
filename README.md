@@ -4,7 +4,7 @@ An easy-to-use system for managing ESP32 parameters (IPs, timeouts, sensor offse
 
 The project features a **Schema-based architecture**: the ESP32 defines its own configuration rules (data types, min/max values, labels), and the Python UI dynamically builds itself based on that information.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/GitHub-GPL--3.0-informational.svg)
 ![Platform](https://img.shields.io/badge/platform-ESP32-red.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
 
